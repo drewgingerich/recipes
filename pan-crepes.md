@@ -1,11 +1,11 @@
 # Ingredients
 
-| Name         | Amount    |
-| ------------ | --------- |
-| eggs         | 4         |
-| greek yogurt | 1/2 cup   |
-| milk         | 1 1/2 cup |
-| flour        | 1 cup     |
+| Name         | Amount  |
+| ------------ | ------- |
+| eggs         | 4       |
+| greek yogurt | 1/2 cup |
+| milk         | 2 cup   |
+| flour        | 1 cup   |
 
 # Recipe
 
@@ -15,9 +15,8 @@
    - Milk
 1. Whisk wet mix until smooth
 1. In a few parts, add flour and whisk until smooth
-1. In a pan, melt a slice of butter over medium heat
-1. Add 1/2 cup batter
-1. Gently shake pan to spread batter thin
+1. In a pan, melt a thick slice of butter over medium heat and tilt pan to spread it out
+1. When the butter begins to brown, add 1/2 cup batter
 1. When top appears set (about 3 min), flip
 1. Cook until bottom is browned
 
