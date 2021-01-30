@@ -1,7 +1,7 @@
 # Ingredients
 
 | Name                 | Amount               | Prep         |
-|----------------------|----------------------|--------------|
+| -------------------- | -------------------- | ------------ |
 | Honey                | 3/4 cup              |              |
 | granulated sugar     | 1/2 cup              |              |
 | cinnamon             | 1/4 tsp              | ground       |
@@ -22,34 +22,35 @@
 ## Dough
 
 1. To a sauce pan add:
-    - Honey
-    - Granulated Sugar
-    - Cinnamon
-    - Black Pepper
-    - White Pepper 
-    - Nutmeg
-    - Ginger
-    - Cloves
+   - Honey
+   - Granulated Sugar
+   - Cinnamon
+   - Black Pepper
+   - White Pepper
+   - Nutmeg
+   - Ginger
+   - Cloves
 1. Heat on low.
 1. Stir until sugar mostly dissolves.
 1. Pour into a mixing bowl.
 1. Add:
-    - Candied orange
-    - Candied lemon
-    - Bourbon, 1/4 cup
+   - Candied orange
+   - Candied lemon
+   - Bourbon, 1/4 cup
 1. In a seprate bowl mix:
-    - Flour
-    - Baking soda
+   - Flour
+   - Baking soda
 1. Add flour mixture slowly to the honey mixture while stirring to form a dough.
 1. Refrigerate for 2 hours or overnight.
 
 ## Glaze
 
 1. In a bowl, add:
-    - Bourbon, 1 1/2 tbsp
-    - Confectioners' sugar
-1. Mix to form a slurry. 
+   - Bourbon, 1 1/2 tbsp
+   - Confectioners' sugar
+1. Mix to form a slurry.
 1. Mix again before use.
+
 ## Baking
 
 1. On well-floured surface, roll out to ~1/4 inch thick.

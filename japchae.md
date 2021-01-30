@@ -3,7 +3,7 @@
 ## Main
 
 | Name                       | Amount  | Prep                   |
-|----------------------------|---------|------------------------|
+| -------------------------- | ------- | ---------------------- |
 | sweet potato glass noodles | ~ 300 g |                        |
 | beef or pork               | ~ 100 g | thinly sliced          |
 | carrot                     | 2       | julienned              |
@@ -16,7 +16,7 @@
 ## Spinach Seasoning
 
 | Name               | Amount  | Prep   |
-|--------------------|---------|--------|
+| ------------------ | ------- | ------ |
 | salt               | 1/4 tsp |        |
 | garlic             | 1/2 tsp | minced |
 | toasted sesame oil | 1 tsp   |        |
@@ -24,7 +24,7 @@
 ## Beef Marinade
 
 | Name               | Amount  | Prep   |
-|--------------------|---------|--------|
+| ------------------ | ------- | ------ |
 | soy sauce          | 1 tbsp  |        |
 | mirin              | 1 tsp   |        |
 | garlic             | 1/2 tsp | minced |
@@ -34,7 +34,7 @@
 ## Mushroom Marinade / Noodle Sauce
 
 | Name               | Amount  | Prep   |
-|--------------------|---------|--------|
+| ------------------ | ------- | ------ |
 | soy sauce          | 4 tbsp  |        |
 | honey              | 1 tbsp  |        |
 | brown sugar        | 1 tbsp  |        |
