@@ -44,3 +44,7 @@
 - Ingredient amounts don't have to be exact.
 - Can use 2-3x more fish sauce if you like it.
 - Flavor improves over time. The celery in particular absorbs the dressing nicely.
+
+# References
+
+https://www.bonappetit.com/recipe/thai-celery-salad-with-peanuts

@@ -64,3 +64,7 @@
 1. Heat small pan to simmer
 1. Stir until sugar is dissolved, about 5 minutes
 1. In a large bowl add everything and toss until mixed
+
+# References
+
+https://www.bonappetit.com/recipe/crispy-potato-salad-chiles-celery-peanuts
