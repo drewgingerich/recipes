@@ -2,13 +2,13 @@
 
 ## Wet
 
-| Name                        | Amount         |
-|-----------------------------|----------------|
-| Hachiya persimmon pulp (~2) | 2 cup          |
-| brown sugar                 | 1 cup (packed) |
-| vanilla extract             | 1 tbsp         |
-| Oat milk                    | 1 cup          |
-| Vegetable oil               | 2 tbsp         |
+| Name                    | Amount            |
+|-------------------------|-------------------|
+| hachiya persimmon puree | 2 cup (~2 fruits) |
+| brown sugar             | 1 cup (packed)    |
+| oat milk                | 1 cup             |
+| vanilla extract         | 1 tbsp            |
+| Vegetable oil           | 2 tbsp            |
 
 ## Dry
 
