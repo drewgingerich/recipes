@@ -37,7 +37,7 @@
    - Candied orange
    - Candied lemon
    - Bourbon, 1/4 cup
-1. In a seprate bowl mix:
+1. In a separate bowl mix:
    - Flour
    - Baking soda
 1. Add flour mixture slowly to the honey mixture while stirring to form a dough.

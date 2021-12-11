@@ -14,3 +14,6 @@ Baked Goods
 - [Persimmon Muffins](./persimmon-pudding-vegan.md)
 - [Persimmon Pudding](./persimmon-pudding.md)
 - [Zucchini Bread](./zucchini-bread.md)
+
+Deserts
+- [Marzipan](./marzipan.md)
