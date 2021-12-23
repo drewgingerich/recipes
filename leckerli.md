@@ -1,22 +1,30 @@
 # Ingredients
 
-| Name                 | Amount               | Prep         |
-| -------------------- | -------------------- | ------------ |
-| Honey                | 3/4 cup              |              |
-| granulated sugar     | 1/2 cup              |              |
-| cinnamon             | 1/4 tsp              | ground       |
-| black pepper         | 1/4 tsp              | ground       |
-| white pepper         | 1/8 tsp              | ground       |
-| nutmeg               | 1/8 tsp              | ground       |
-| ginger               | 1/8 tsp              | ground       |
-| cloves               | 1/8 tsp              | ground       |
-| candied orange rind  | 1/3 cup              | finely diced |
-| candied lemon rind   | 1/3 cup              | finely diced |
-| bourbon              | 1/4 cup + 1 1/2 tbsp |              |
-| all-purpose flour    | 2 cups               |              |
-| baking soda          | 1/2 tsp              |              |
-| confectioners' sugar | 2/3 cup              |              |
+## Dough
 
+| Name                 | Amount  | Prep         |
+|----------------------|---------|--------------|
+| honey                | 3/4 cup |              |
+| granulated sugar     | 1/2 cup |              |
+| cinnamon             | 1/4 tsp | ground       |
+| black pepper         | 1/4 tsp | ground       |
+| white pepper         | 1/8 tsp | ground       |
+| nutmeg               | 1/8 tsp | ground       |
+| ginger               | 1/8 tsp | ground       |
+| cloves               | 1/8 tsp | ground       |
+| candied orange rind  | 1/2 cup | finely diced |
+| candied lemon rind   | 1/2 cup | finely diced |
+| bourbon              | 1/4 cup |              |
+| all-purpose flour    | 2 cups  |              |
+| baking soda          | 1/2 tsp |              |
+
+## Glaze
+
+| Name                 | Amount |
+|----------------------|--------|
+| confectioners' sugar | 1 cup  |
+| gin                  | 2 tbsp |
+| lemon juice          | 2 tbsp |
 # Recipe
 
 ## Dough
@@ -54,7 +62,7 @@
 ## Baking
 
 1. On well-floured surface, roll out to ~1/4 inch thick.
-1. Place dough on baking sheet lined with parchement paper.
+1. Place dough on baking sheet lined with parchment paper.
 1. Bake at 350 F for 20 minutes, rotating halfway through.
 1. Remove and immediately brush on glaze.
 1. Wait for glaze to dry and cookie to cool.
