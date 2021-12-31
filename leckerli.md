@@ -15,7 +15,7 @@
 | candied orange rind  | 1/2 cup | finely diced |
 | candied lemon rind   | 1/2 cup | finely diced |
 | bourbon              | 1/4 cup |              |
-| all-purpose flour    | 2 cups  |              |
+| flour                | 1 cup   |              |
 | baking soda          | 1/2 tsp |              |
 
 ## Glaze
