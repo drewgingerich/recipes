@@ -1,3 +1,7 @@
+Breakfasts
+
+- [Granola](./granola.md)
+
 Salads
 
 - [Celery Apple Salad](./celery-apple-salad.md)
