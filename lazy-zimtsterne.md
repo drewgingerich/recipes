@@ -4,13 +4,13 @@ Chewy spiced almond cookies, similar in texture to a macaron shell. They are bas
 
 ## Ingredients
 
-| Name                     | Amount |
-| ------------------------ | ------ |
-| Egg whites               | 2      |
-| Powdered sugar           | 1 cup  |
-| Almond flour, extra fine | 2 cups |
-| Cinnamon                 | 1 tsp  |
-| vanilla extract          | 1 tsp  |
+| Name                     | Amount     |
+| ------------------------ | ---------- |
+| Egg whites               | 2          |
+| Powdered sugar           | 1 1/2 cups |
+| Almond flour, extra fine | 2 cups     |
+| Cinnamon                 | 1 tsp      |
+| vanilla extract          | 1 tsp      |
 
 Other spices can be used instead of cinnamon,
 such as ginger, cardamom, or anise.
@@ -31,8 +31,3 @@ Adjust the amount of spice for its relative strength.
 If cookie is sticking to the parchment paper after baking, you can cook it for longer to help the bottom crisp up and release more easily.
 
 These cookies get much firmer and chewier over time.
-
-## References
-
-- [German Cinnamon Stars](https://web.archive.org/web/20231130051416/https://www.recipesfromeurope.com/german-cinnamon-stars/)
-- [Zimtsterne (German Cinnamon Star Cookies)](https://web.archive.org/web/20230628123805/https://www.daringgourmet.com/zimtsterne-german-cinnamon-star-cookies/#recipe)
