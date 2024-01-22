@@ -31,3 +31,8 @@ Adjust the amount of spice for its relative strength.
 If cookie is sticking to the parchment paper after baking, you can cook it for longer to help the bottom crisp up and release more easily.
 
 These cookies get much firmer and chewier over time.
+
+## References
+
+- [German Cinnamon Stars](https://web.archive.org/web/20231130051416/https://www.recipesfromeurope.com/german-cinnamon-stars/)
+- [Zimtsterne (German Cinnamon Star Cookies)](https://web.archive.org/web/20230628123805/https://www.daringgourmet.com/zimtsterne-german-cinnamon-star-cookies/#recipe)
