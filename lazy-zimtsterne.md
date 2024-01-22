@@ -1,6 +1,8 @@
 # Lazy Zimtsterne
 
-Chewy spiced almond cookies, similar in texture to a macaron shell. They are based on a German holiday cookie named zimtsterne (cinammon star), but I'm too lazy to cut out the individual stars so I bake them as a sheet instead.
+Chewy spiced almond cookies, similar in texture to a macaron shell.
+They are based on a German holiday cookie named zimtsterne (cinammon star),
+but I'm too lazy to cut out the individual stars so I bake them as a sheet and cut them into squares instead.
 
 ## Ingredients
 
